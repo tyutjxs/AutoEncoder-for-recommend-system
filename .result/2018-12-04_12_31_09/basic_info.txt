@@ -1,0 +1,2 @@
+icf
+hidden_dim = 500lambda_value = 10train_epoch = 200batch_size = 100optimizer_method = Adambase_lr = 0.001decay_epoch_step = 10random_seed = 1000display_step = 1ratio = 0.9repeat_number = 1
